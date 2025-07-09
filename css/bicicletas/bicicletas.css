@@ -30,7 +30,7 @@
     align-content: start;
 }
 
-.bicicletas-conteudo h2, p {
+.bicicletas-conteudo h2, .bicicletas-conteudo p {
     grid-column: 1/-1;
     margin-bottom: 20px;
 }
